@@ -55,3 +55,8 @@
         let media = soma/notas.length
 
         console.log (soma,media)
+
+        let bruxos = [
+            {id:1, nome:"Harry Potter", notas:[8.1,7.4,9.9]},
+            {id:1, nome:"Hermione Granger", notas:[10.0,7.4,9.9]}
+        ]
